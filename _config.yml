@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Personal webpage"
+title                    : "Personal webpage of Cameron Smith"
 title_separator          : "|"
-subtitle                 : "Cameron Smith" # site tagline that appears below site title in masthead
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Cameron Smith"
 description              : "Personal webpage of Cameron Smith."
 url                      : "https://cameronsmith50.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -63,7 +63,7 @@ search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
-  search_within_pages    : # true, false (default)
+  search_within_pages    : true # true, false (default)
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -287,7 +287,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
