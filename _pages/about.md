@@ -7,7 +7,7 @@ intro:
 
 ---
 
-{% include feature_row id="intro" type="left" %}
+{% include feature_row id="intro" type="center" %}
 
 <h1>Current position</h1>
 <p>
