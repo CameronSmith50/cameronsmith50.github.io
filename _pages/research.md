@@ -35,4 +35,4 @@ papers0:
 
 {% include feature_row %}
 
-{% include feature_row id="papers0", type="center" %}
+{% include feature_row id="papers0" type="center" %}
