@@ -37,7 +37,7 @@ feature_row:
     Evolution, Medicine and Public Health (2023)<br/>
     DOI: <a href="https://doi.org/10.1093/emph/eoac037">10.1093/emph/eoac037</a><br/><br/>
 </p>
-<p>
+<!-- <p>
     <b>Critical weaknesses with shielding strategies for COVID-19</b><br/>
     <u>C.A. Smith</u>, B. Ashby and C.A. Yates<br/>
     PLOS Global Public Health (2022)<br/>
@@ -72,4 +72,4 @@ feature_row:
     <u>C.A. Smith</u> and C.A. Yates<br/>
     Journal of the Royal Society: Interface (2018)<br/>
     DOI: <a href="https://doi.org/10.1098/rsif.2017.0931">10.1098/rsif.2017.0931</a>
-</p>
+</p> -->
