@@ -19,7 +19,7 @@ feature_row:
 
 {% include feature_row %}
 
-<!-- <h2>Publications</h2>
+<h2>Publications</h2>
 <p>
     <b>Tolerance-conferring defensive symbionts and the evolution of parasite virulence</b><br/>
 	<u>C.A. Smith</u> and B. Ashby<br/>
@@ -73,4 +73,4 @@ feature_row:
     <u>C.A. Smith</u> and C.A. Yates<br/>
     Journal of the Royal Society: Interface (2018)<br/>
     DOI: <a href="https://doi.org/10.1098/rsif.2017.0931">10.1098/rsif.2017.0931</a>
-</p> -->
+</p>
