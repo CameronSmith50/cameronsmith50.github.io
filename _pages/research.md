@@ -14,8 +14,8 @@ feature_row:
     excerpt: "In my PhD, we developed algorithms designed to simulate reaction-diffusion systems by employing modelling techniques and combining them in an appropriate way. Such approaches are called hybrid methods. I have also worked on taking these ideas and applying them to epidemiological models, allowing us to accurately model an epidemic and explicit within-host processes."
 
 feature_row2:
-  -excerpt: '<p><b>Tolerance-conferring defensive symbionts and the evolution of parasite virulence</b><br/>
-		<u>C.A. Smith</u> and B. Ashby<br/>
+  -title: 'Tolerance-conferring defensive symbionts and the evolution of parasite virulence'
+  -excerpt: '<p><u>C.A. Smith</u> and B. Ashby<br/>
 		Evolution Letters (2023)<br/>
 		DOI: <a href="https://doi.org/10.1093/evlett/qrad015">10.1093/evlett/qrad015</a>
 		</p>'
