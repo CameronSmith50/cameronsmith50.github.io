@@ -12,6 +12,7 @@ feature_row:
     excerpt: "Throughout the COVID-19 pandemic, I conducted research on the effect that shielding strategies would have on the overall outcomes of the pandemic, and also investigated the role that NPIs and immunocompromised individuals could have on the emergence of variants."
   - title: "Development of hybrid frameworks"
     excerpt: "In my PhD, we developed algorithms designed to simulate reaction-diffusion systems by employing modelling techniques and combining them in an appropriate way. Such approaches are called hybrid methods. I have also worked on taking these ideas and applying them to epidemiological models, allowing us to accurately model an epidemic and explicit within-host processes."
+
 ---
 
 {% include feature_row id="intro" type="center" %}
