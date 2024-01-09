@@ -16,21 +16,21 @@ permalink: /talks/
 <p><u>TITLE:</u> Tolerance-conferring defensive symbionts and the evolution of parasite virulence<br/>
 <u>FILE:</u> <a href="{% link assets/files/BAMC_2023_final.pdf %}">PDF</a>
 
-<hr class="minor" />
+<hr>
 
 <b>SAMBA Summer Conference (July 2019)</b>
 <p><u>TITLE:</u> The auxiliary region method for coupling PDE- and Brownian-based dynamics for reaction-diffusion systems<br/>
 <u>FILE:</u> <a href="{% link assets/files/SAMBa_Conference_2019_Final.pdf %}">PDF</a><br/>
 &nbsp; &nbsp; &nbsp; Won best student talk
 
-<hr class="minor" />
+<hr>
 
 <b>British Applied Mathematics Colloquium (BAMC, April 2019)</b>
 <p><u>TITLE:</u> Modelling stochastic biological systems<br/>
 <u>FILE:</u> <a href="{% link assets/files/BAMC_Presentation.pdf %}">PDF</a><br/>
 &nbsp; &nbsp; &nbsp; Part of a minisymposium of the same name, organised by myself, <a href="https://kityates.com">Kit Yates</a> and <a href="https://enricogavagnin.github.io/">Enrico Gavagnin</a>.
 
-<hr class="minor" />
+<hr>
 
 <b>European Conference for Theoretical and Mathematical Biology (ECMTB, July 2018)</b>
 <p><u>TITLE:</u> The auxiliary region method for coupling PDE- and Brownian-based dynamics for reaction-diffusion systems<br/>
@@ -38,37 +38,37 @@ permalink: /talks/
 
 <h1>Conference posters</h1>
 
-<hr class="minor" />
+<hr>
 
 <b>European Conference for Theoretical and Mathematical Biology (ECMTB, September 2022)</b>
 <p><u>TITLE:</u> Critical weaknesses with shielding strategies for COVID-19<br/>
 <u>FILE:</u> <a href="{% link assets/files/Poster_herd_immunity_final.pdf %}">PDF</a><br/>
 
-<hr class="minor" />
+<hr>
 
 <b>8th International Conference on Infectious Disease Dynamics (EPID8, December 2021)</b>
 <p><u>TITLE:</u> Critical weaknesses with shielding strategies for COVID-19<br/>
 <u>FILE:</u> <a href="{% link assets/files/Poster_herd_immunity.pdf %}">PDF</a><br/>
 
-<hr class="minor" />
+<hr>
 
 <b>Society for Mathematical Biology Conference (SMB, July 2019)</b>
 <p><u>TITLE:</u> Unbiased on-lattice domain growth<br/>
 <u>FILE:</u> <a href="{% link assets/files/Unbiased_poster.pdf %}">PDF</a><br/>
 
-<hr class="minor" />
+<hr>
 
 <b>Society for Mathematical Biology Conference (SMB, July 2019)</b>
 <p><u>TITLE:</u> Unbiased on-lattice domain growth<br/>
 <u>FILE:</u> <a href="{% link assets/files/Unbiased_poster.pdf %}">PDF</a><br/>
 
-<hr class="minor" />
+<hr>
 
 <b>SIAM National Student Chapter (July 2019)</b>
 <p><u>TITLE:</u> The auxiliary region method: simulating second-order reaction systems<br/>
 <u>FILE:</u> <a href="{% link assets/files/CASmith-poster.pdf %}">PDF</a><br/>
 
-<hr class="minor" />
+<hr>
 
 <b>SAMBa Summer Conference (July 2018)</b>
 <p><u>TITLE:</u> The auxiliary region method: a hybrid method for coupling PDE-and Brownian-based dynamics for reaction–diffusion systems<br/>
