@@ -18,7 +18,7 @@ feature_row:
 
 {% include feature_row %}
 
-<h2>Publications</h2>
+<!-- <h2>Publications</h2>
 <p>
     <b>Tolerance-conferring defensive symbionts and the evolution of parasite virulence</b><br/>
 	<u>C.A. Smith</u> and B. Ashby<br/>
@@ -37,7 +37,7 @@ feature_row:
     Evolution, Medicine and Public Health (2023)<br/>
     DOI: <a href="https://doi.org/10.1093/emph/eoac037">10.1093/emph/eoac037</a><br/><br/>
 </p>
-<!-- <p>
+<p>
     <b>Critical weaknesses with shielding strategies for COVID-19</b><br/>
     <u>C.A. Smith</u>, B. Ashby and C.A. Yates<br/>
     PLOS Global Public Health (2022)<br/>
