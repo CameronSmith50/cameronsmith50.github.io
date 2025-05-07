@@ -107,13 +107,13 @@ author:
   name             : "Cameron Smith"
   avatar           : "/assets/images/Me2023.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a mathematical biologist working in the Department of
-  Biology at the University of Oxford. I am part of the King Lab"
+  Mathematical Sciences at the University of Bath. I am part of the Yates Group"
   location         : "Oxford, UK"
   email            : "cameron.smith@biology.ox.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cameron.smith@biology.ox.ac.uk"
+      url: "mailto:cs640@bath.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://cameronsmith50.github.io"
