@@ -21,6 +21,20 @@ feature_row:
 
 <h2>Publications</h2>
 <p>
+    <b>Warming during different life stages has distinct impacts on host resistance ecology and evolution</b><br/>
+	J. Li, <u>C.A. Smith</u>, J. Chen, K.A. Bates, K.C. King<br/>
+	Journal of Theoretical Biology (2025)<br/>
+	DOI: <a href="https://doi.org/10.1016/j.jtbi.2025.112061">10.1016/j.jtbi.2025.112061</a><br/><br/>
+</p>
+
+<p>
+    <b>Efficient coupling of within-and between-host infectious disease dynamics</b><br/>
+	<u>C.A. Smith</u> and B. Ashby<br/>
+	Journal of Theoretical Biology (2025)<br/>
+	DOI: <a href="https://doi.org/10.1016/j.jtbi.2025.112061">10.1016/j.jtbi.2025.112061</a><br/><br/>
+</p>
+
+<p>
     <b>Tolerance-conferring defensive symbionts and the evolution of parasite virulence</b><br/>
 	<u>C.A. Smith</u> and B. Ashby<br/>
 	Evolution Letters (2023)<br/>

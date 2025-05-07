@@ -5,6 +5,10 @@ permalink: /talks/
 
 <h1>Invited talks</h1>
 
+<h3>Mathematical Biology Seminar, University of British Columbia (April 2025)</h3>
+<p><u>TITLE:</u> Modelling of infections at within- and between-host levels<br/>
+<u>FILE:</u> <a href="{% link assets/files/UBC_math_bio.pdf %}">PDF</a><br/>
+
 <h3>Centre of Mathematical Biology Seminar, University of Bath (February 2024)</h3>
 <p><u>TITLE:</u> Biocontrols, defensive symbiosis, and an unexpected tale of an uneasy alliance<br/>
 <u>FILE:</u> <a href="{% link assets/files/CMB_talk_2024.pdf %}">PDF</a><br/>
