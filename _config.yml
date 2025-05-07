@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/Me2023.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a mathematical biologist working in the Department of
   Mathematical Sciences at the University of Bath. I am part of the Yates Group"
-  location         : "Oxford, UK"
+  location         : "Bath, UK"
   email            : "cameron.smith@biology.ox.ac.uk"
   links:
     - label: "Email"
